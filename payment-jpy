@@ -1,0 +1,8 @@
+		'JPY' => array(
+			'name'                => esc_html__( 'Japanese Yen', 'wpforms' ),
+			'symbol'              => '&#165;',
+			'symbol_pos'          => 'left',
+			'thousands_separator' => ',',
+			'decimal_separator'   => '.',
+			'decimals'            => 2,
+		),
